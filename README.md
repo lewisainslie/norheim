@@ -1,5 +1,5 @@
 # Norheim
-A simple beautiful dual screen front-end for the Ayn Thor. 
+A simple beautiful dual screen front-end for the Ayn Thor. Website coming soon (norheim.app).
 
 ## Features
 - Works with all Android emulators.
